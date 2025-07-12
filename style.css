@@ -1,0 +1,97 @@
+
+body{
+
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    background-image: url(../Imagenes/fondo-cafe-latte1.png);
+    background-position: center;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+.cabecera{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.607);
+    width: 70%;
+    height: 150px;
+    margin-right: 15%;
+    margin-left: 15%;
+    color: white;
+    border: solid 3px black;
+    border-radius: 20px;
+    text-align: center;
+}
+.barra{ 
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.607);
+    color: white;
+    height: 70px;
+    font-size: 30px;
+    padding: 20px;
+    margin: 10px;
+    border: solid 3px black;
+    border-radius: 20px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    width: 100%;
+    border-radius: 20px;
+
+
+}
+.nivel-1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+
+}
+
+
+a{ background-color: rgba(0, 0, 0, 0.545);
+    color: white;
+    margin-left: auto;
+    margin-right: 5px auto;
+    margin-top: 5px;
+    height: auto;
+    width: 100%;
+    border : solid rgb(255, 255, 255) 2px;
+    border-radius: 15px;
+    text-align: center;
+    border-style: solid ;
+    text-decoration: none;
+}
+
+
+.box1, .box2, .box3{
+    width: 30%;
+    border: solid 3px black;
+    border-radius: 20px;
+    margin: 3px auto;
+    background-color: rgba(0, 0, 0, 0.607);
+}
+
+
+.nivel-2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.box4, .box5{
+    width: 30%;
+    border-radius: 20px;
+    border: solid 3px black;
+    margin: 20px auto;
+    background-color: rgba(0, 0, 0, 0.607);
+}
