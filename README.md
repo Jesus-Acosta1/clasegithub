@@ -1,7 +1,6 @@
 # clasegithub
 
 mi primer repositorio
-hola github
 
-jesus es el mejor  
-
+creacion de una pagina sobre el cafe
+ademas otras posibles web hechas en clase
